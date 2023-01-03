@@ -1,0 +1,18 @@
+@mixin setdisplayflex($display,$directon,$align,$justify) {
+    display: $display;
+    flex-direction: $directon;
+    align-items: $align; 
+    justify-content: $justify ; 
+}
+
+// @mixin color($color,$bg_color) {
+//     color: $color;
+//     background-color: $bg_color;   
+// }
+
+// @mixin btn($border,$border-radius,$padding,$font_size) {
+//     border: $border;
+//     border-radius: $border-radius;
+//     padding: $padding;
+//     font-size: $font_size;
+// }

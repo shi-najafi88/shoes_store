@@ -1,0 +1,131 @@
+{
+  "allProduct": [
+    {
+      "id": 1,
+      "name": "K-Swiss ista Train1",
+      "price": "850",
+      "size": "40",
+      "rate": "4.6",
+      "sold": "5.325",
+      "color": "gray",
+      "statusInWishlist": "false",
+      "img": "https://www.uplooder.net/img/image/68/65d1e0db06d4e785ce8f5311b95817f4/Rectangle-6.png"
+    },
+    {
+      "id": 2,
+      "name": "K-Swiss ista Nike",
+      "price": "850",
+      "size": "42",
+      "rate": "4.8",
+      "sold": "8.518",
+      "color": "pink",
+      "statusInWishlist": "false",
+      "img": "https://www.uplooder.net/img/image/62/ce29aea78c97a507eab204d9aa802119/Rectangle-1.png"
+    },
+    {
+      "id": 3,
+      "name": "K-Swiss ista Runing",
+      "price": "850",
+      "size": "41",
+      "rate": "4.9",
+      "sold": "4.254",
+      "color": "white",
+      "statusInWishlist": "false",
+      "img": "https://www.uplooder.net/img/image/97/ea4385f887c2a9894da11b11d147ca32/Rectangle2.png"
+    },
+    {
+      "id": 4,
+      "name": "K-Swiss ista adidas",
+      "price": "850",
+      "size": "40",
+      "rate": "4.7",
+      "sold": "7.120",
+      "color": "red",
+      "statusInWishlist": "false",
+      "img": "https://www.uplooder.net/img/image/32/47a1abc21f75a7d0ef675d186586155f/Rectangle-3.png"
+    },
+    {
+      "id": 5,
+      "name": "K-Swiss ista Asics",
+      "price": "850",
+      "size": "42",
+      "rate": "4.6",
+      "sold": "6.302",
+      "color": "gray",
+      "statusInWishlist": "false",
+      "img": "https://www.uplooder.net/img/image/39/a3a67fbdae2435bef68dbbf0374fdcca/Rectangle-4.png"
+    },
+    {
+      "id": 6,
+      "name": "Swiss ista Snekers",
+      "price": "850",
+      "size": "41",
+      "rate": "4.5",
+      "sold": "6.378",
+      "color": "gray",
+      "statusInWishlist": "false",
+      "img": "https://www.uplooder.net/img/image/49/31932a445c5c7a6b4562de95dd2a0c05/Rectangle-5.png"
+    }
+  ],
+  "wishlist": [
+    {
+      "id": 4,
+      "name": "K-Swiss ista adidas",
+      "price": "$ 85.00",
+      "rate": "4.7",
+      "sold": "7.120",
+      "img": "https://www.uplooder.net/img/image/32/47a1abc21f75a7d0ef675d186586155f/Rectangle-3.png"
+    },
+    {
+      "id": 3,
+      "name": "K-Swiss ista Runing",
+      "price": "$ 85.00",
+      "rate": "4.9",
+      "sold": "4.254",
+      "img": "https://www.uplooder.net/img/image/97/ea4385f887c2a9894da11b11d147ca32/Rectangle2.png"
+    },
+    {
+      "id": 1,
+      "name": "K-Swiss ista Train1",
+      "price": "$ 85.00",
+      "rate": "4.6",
+      "sold": "5.325",
+      "img": "https://www.uplooder.net/img/image/68/65d1e0db06d4e785ce8f5311b95817f4/Rectangle-6.png"
+    },
+    {
+      "id": 2,
+      "name": "K-Swiss ista Nike",
+      "price": "$ 85.00",
+      "rate": "4.8",
+      "sold": "8.518",
+      "img": "https://www.uplooder.net/img/image/62/ce29aea78c97a507eab204d9aa802119/Rectangle-1.png"
+    }
+  ],
+  "searchHistory": [
+    {
+      "searchContent": "K-Swiss ista Nike",
+      "id": 6
+    },
+    {
+      "searchContent": "K-Swiss ista Nike",
+      "id": 7
+    },
+    {
+      "searchContent": "K-Swiss ista Nike",
+      "id": 9
+    },
+    {
+      "searchContent": "K-Swiss ista Nike",
+      "id": 10
+    },
+    {
+      "searchContent": "K-Swiss ista Nike",
+      "id": 11
+    },
+    {
+      "searchContent": "K-Swiss ista Nike",
+      "id": 12
+    }
+  ],
+  "myCard": []
+}

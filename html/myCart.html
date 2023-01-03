@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/main.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Document</title>
+</head>
+<body>
+
+    <div class="container_myCart">
+
+        <header class="header_myCart">
+            <div class="leftSide">
+                <img src="../shoes img/logo.png" alt="">
+                <h1>My Cart</h1>
+            </div>
+            <i class="fa fa-search search_icon"></i>
+        </header>
+
+        <section class="wraper_myCart">
+        </section>
+
+        <footer class="footer_cart">
+
+            <div class="wraper_addToCart_content">
+                <div class="wraoer_total_price">
+                    <span class="total_price_span">Total Price</span>
+                    <span class="total_price_number"></span>
+                </div>
+                <div class="wraper_addToCart-Btn">
+                    <i class="fa fa-shopping-bag"></i>
+                    <a><button class="addBtn_text">post To Checkout</button></a>
+                </div>
+            </div>
+
+            <div class="row1">
+                <div class="wraper_addToCart_content">
+                    <div class="wraoer_total_price">
+                        <span class="total_price_span">Total Price</span>
+                        <span class="total_price_number">$129</span>
+                    </div>
+                    <div class="wraper_addToCart-Btn">
+                        <i class="fa fa-shopping-bag"></i>
+                        <span class="addBtn_text">Add To Cart</span>
+                    </div>
+                    <button class="addToCardBtn"></button>
+                </div>
+            </div>
+
+            <div class="row2">
+                <section class="footer_homepage1">
+                 
+                    <div class="wraper_content_footer icon_home">
+                        <i class="fa fa-home"></i>
+                        <span class="name_icon_footer">Home</span>
+                    </div>
+    
+                    <div class="wraper_content_footer">
+                        <i class="fa fa-credit-card"></i>
+                        <span class="name_icon_footer">Cart</span>
+                    </div>
+    
+                    <div class="wraper_content_footer ordersIcon">
+                        <i class="fa fa-shopping-cart"></i>
+                        <span class="name_icon_footer">Orders</span>
+                    </div>
+    
+                    <div class="wraper_content_footer">
+                        <i class="fa fa-money"></i>
+                        <span class="name_icon_footer">Wallet</span>
+                    </div>
+    
+                    <div class="wraper_content_footer">
+                        <i class="fa fa-user-o"></i>
+                        <span class="name_icon_footer">Profile</span>
+                    </div>
+                    
+                </section>   
+            </div>
+        </footer>
+
+        <section class="overlay">
+            <div class="wraper_myCart">
+                <div class="wraper_card">
+
+                    <h1 class="textRemove_modal">Remove Frome Cart?</h1>
+
+                    <div class="wraper_left_card">
+                        <div class="wraper_imgCard">
+                            <img src="" alt="" class="img_delet_modal">
+                        </div>
+                    </div>
+        
+                    <div class="wraper_right_card">
+        
+                        <div class="row_one">
+                            <span class="name_delet_modal"></span>
+                        </div>
+        
+                        <div class="row-tow">
+                            <div class="show_color"></div>
+                            <span class="color_name"></span>
+                            <span>|</span>
+                            <span class="show_size">size=</span>
+                        </div>
+        
+                        <div class="row-three">
+        
+                            <div class="wraper_count_product">
+                                <div class="count">
+                                    <span>-</span>
+                                    <input id="counter" value="">
+                                    <span >+</span>
+                                </div>
+                        </div>
+                    </div>         
+
+                </div>
+
+                <div class="wraper_btn">
+                    <button class="cancel_delet btn_modal">Cancel</button>
+                    <button class="yes_delet btn_modal">Yes, Remove</button>
+                </div>
+            </div>
+        </section>
+    </div>
+<script src="../myCart.js"></script>    
+</body>
+</html>
