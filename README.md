@@ -1,5 +1,5 @@
 #  <p align="center"> "Shoea" E-Commerce Website </p>
-#### <p align="center"> Project created with HTML , Sass and JavaScript without using third party libraries <br><br><br> </p>
+#### <p align="center"> Project created with HTML , Scss and JavaScript without using third party libraries <br><br><br> </p>
 ---
 
 
