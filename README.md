@@ -10,4 +10,5 @@
 #### Project Images
 | Cart     | Favorite  | Los Angeles  |
 | :---:    | :---:  | :---:     |
-| ![cart](https://github.com/shi-najafi88/shoes_store/assets/113782959/c64789cb-b921-4bc4-8386-817f29f50be2)
+| ![cart](https://github.com/shi-najafi88/shoes_store/assets/113782959/c64789cb-b921-4bc4-8386-817f29f50be2) | ![wishlist](https://github.com/shi-najafi88/shoes_store/assets/113782959/054b9e89-1747-47a9-9326-ac1c30012c68)
+
