@@ -1,7 +1,11 @@
-# "Shoea" E-Commerce Website
-####  Project created with HTML , Sass and JavaScript without using third party libraries
+#  <p align="center"> "Shoea" E-Commerce Website </p>
+#### <p align="center"> Project created with HTML , Sass and JavaScript without using third party libraries <br><br><br> </p>
+---
 
-#### Project Images
+
+ 
+ 
+Project Images
 
 | Home     | Product Details      | Checkout  | Choose Shipping |
 | :---:    |   :---:              | :---:     |  :---: |
@@ -12,4 +16,4 @@
 | :---:    | :---:  | :---:     |
 | ![cart](https://github.com/shi-najafi88/shoes_store/assets/113782959/c64789cb-b921-4bc4-8386-817f29f50be2) | ![wishlist](https://github.com/shi-najafi88/shoes_store/assets/113782959/683c7bbb-29bb-4dfc-858a-0af3eff7c1c4) | ![order](https://github.com/shi-najafi88/shoes_store/assets/113782959/60e9a3ba-5233-4938-89a7-6a49f3902067)
 
-##### A store with home page, favorite page, product details page with description, and feature display. Ability to add a product to cart page, the ability to delete products from cart page by displaying a message. Checkout page to enter user information to confirm purchase. Use Fetch API to connect with database.
+#### A store with home page, favorite page, product details page with description, and feature display. Ability to add a product to cart page, the ability to delete products from cart page by displaying a message. Checkout page to enter user information to confirm purchase. Use Fetch API to connect with database.
